@@ -30,10 +30,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Landing Page](https://raw.githubusercontent.com/gseals/react-currency-conversion/master/screenshots/LandingPage.png)
 
 ### Converting USD to EUR
-![New Search Results](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/New%20Search%20Results.png)
+![Converting USD to EUR](https://raw.githubusercontent.com/gseals/react-currency-conversion/master/screenshots/USDtoEUR.png)
 
 ## How to Run
 
